@@ -1,2 +1,2 @@
 # DataStructure
-Implementation of Data Structure in different languages
+Implementation of Data Structures
